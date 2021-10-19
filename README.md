@@ -2,7 +2,7 @@
 
 ## Goal:
 
-Create database and perform stages using MySQL Workbench.
+Create database and perform task using MySQL Workbench.
 
 ## Task. Stages:
 
